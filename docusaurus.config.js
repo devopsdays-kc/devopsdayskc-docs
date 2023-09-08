@@ -9,7 +9,7 @@ const config = {
   title: 'devopsdays KC Docs',
   tagline: 'devopsdays Kansas City Documentation',
   favicon: 'img/favicon.ico',
-  url: 'https://your-docusaurus-test-site.com', // Set the production url of your site here
+  url: 'https://devopsdayskc-docs.netlify.app', // Set the production url of your site here
   baseUrl: '/', // Set the base url of your site here, for GitHub pages, it is often '/<projectName>/'
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
