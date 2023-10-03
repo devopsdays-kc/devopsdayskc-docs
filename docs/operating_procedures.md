@@ -6,7 +6,7 @@ title: "Operating Procedures"
 
 ### Proposals are implemented with the following criteria:
 
-* Proposals must start with “PROPOSAL”, and be posted in the “devops_orgzr_announce” organizer channel on the DevOps KC Slack.  The proposal should also mention `@channel` to ensure all members are exposed to the proposal
+* Proposals must start with **“PROPOSAL”**, and be posted in the `#devops_orgzr_announce` organizer channel on the DevOps KC Slack.  The proposal should also mention `@channel` to ensure all members are exposed to the proposal
 * Voting will be open for 48 hours unless:
   * The proposal immediately passes if there are 4 or more +1’s not including the proposer
   * The proposal immediately fails if there are 4 or more -1’s not including the proposer
@@ -23,7 +23,7 @@ title: "Operating Procedures"
   * All dissenting comments must be acknowledged and preferably addressed by the proposer
   * At the end of the 48 hours, the proposal will pass if there aren’t 4 -1’s
 
-### Guide for meetings during planning season for DevOpsDays KC
+### Guide for meetings during planning season for devopsdays KC
 
 * Meetings will be on a set schedule of:
   * First Tuesday Night of the Month 6PM to 8PM (5:30ish to 8:30ish) IN PERSON - 2 hours
