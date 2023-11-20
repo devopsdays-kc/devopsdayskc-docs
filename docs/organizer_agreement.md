@@ -1,5 +1,6 @@
 ---
 title: "Organizer Agreement"
+sidebar_position: 4
 ---
 
 # Organizer Agreement

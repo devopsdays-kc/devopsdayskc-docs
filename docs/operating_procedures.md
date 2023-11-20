@@ -1,5 +1,6 @@
 ---
 title: "Operating Procedures"
+sidebar_position: 3
 ---
 
 # Organizer Operating Procedures

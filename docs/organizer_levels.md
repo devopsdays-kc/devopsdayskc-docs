@@ -1,5 +1,6 @@
 ---
 title: "Organizer Levels"
+sidebar_position: 5
 ---
 
 # Organizer Levels
