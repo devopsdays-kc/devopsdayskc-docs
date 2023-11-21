@@ -5,7 +5,9 @@ sidebar_position: 3
 
 # Organizer Operating Procedures
 
-### Proposals are implemented with the following criteria:
+## Proposals
+
+Proposals are implemented with the following criteria:
 
 * Proposals must start with **“PROPOSAL”**, and be posted in the `#devops_orgzr_announce` organizer channel on the DevOps KC Slack.  The proposal should also mention `@channel` to ensure all members are exposed to the proposal
 * Voting will be open for 48 hours unless:
@@ -24,7 +26,9 @@ sidebar_position: 3
   * All dissenting comments must be acknowledged and preferably addressed by the proposer
   * At the end of the 48 hours, the proposal will pass if there aren’t 4 -1’s
 
-### Guide for meetings during planning season for devopsdays KC
+## Meetings
+
+Here is a guide for meetings during planning seasons for devopsdays KC
 
 * Meetings will be on a set schedule of:
   * First Tuesday Night of the Month 6PM to 8PM (5:30ish to 8:30ish) IN PERSON - 2 hours
@@ -35,3 +39,16 @@ sidebar_position: 3
 * Organizer agrees to put things on the agenda ahead of the Hangout meetings
 * Organizer agrees to make every effort to attend the meeting, but understands there are competing priorities and sometimes myself or others will not be able to make it
 * Organizer agrees to log and update Trello issues before or immediately after the meetings, so the meetings are respectful of other’s time
+
+## Slack
+
+Here is a guide for Slack usage before, during, and after planning seasons for devopsdays KC
+
+### Channels
+
+The below mentioned channels are not specifically named this way, but this lists out the intent of the channels and how they should be used. Each Organizer will be added to the channels as part of their onboarding process.
+
+* ***_organizers*** - the original channel, which should mostly stay on topic about the conference, but sometimes strays and can be too much to keep up on but is great for searching for things later, assuming the history has not been lost.
+* ***_external_feed*** - updates from Trello, with Trello being used for anything important because Slack will delete messages that are older than 30 days.
+* ***_orgzr_announce*** - proposals, announcements, and important discussions that need multiple peoples feedback to either vote or make a decision on. If something is going to cost a fair amount (more than $X - where we need to define X still) and or will have material impact on attendee experience it should be brought here and the **Proposals** process above should be followed.
+* ***#devopsdayskc*** - the front stage for the event. Where the other channels are backstage and organizers-only, this channel is where we would post tweets, announcements, etc. and try to build excitement and get the community engaged around the event.
