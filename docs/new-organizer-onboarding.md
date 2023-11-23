@@ -18,7 +18,7 @@ The goal of this process is to make it easy to onboard new Organizers to the tea
   * Access to Global devopsdays Slack and `kansas-city@devopsdays.org` email group
   * Create/link devopskc.com + devopsdayskc.org email
   * Added to devopsdays KC email lists
-  * Access to all secret slack channels
+  * Access to all internal slack channels
 3. Organizer will be added to the **[devopsdays KC Organizer list](https://devopsdays.org/kansas-city/contact)** once they've provided:
   * Name
   * Company
