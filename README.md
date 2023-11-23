@@ -13,13 +13,13 @@ We welcome any and all contributions to the documentation. In order to do so, yo
 1. Fork the repo to your GitHub org, and then clone it to your local machine:
 
 ```
-git clone https://github.com/<GITHUB_USER>/devopsdayskc-docs.git
+git clone https://github.com/<GITHUB_USER>/docs.git
 ```
 
 2. Install dependencies
 
 ```
-cd devopsdayskc-docs
+cd docs
 npm install
 ```
 
