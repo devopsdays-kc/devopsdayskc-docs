@@ -1,6 +1,6 @@
 ---
 title: "Organizer Onboarding"
-unlisted: true
+unlisted: false
 sidebar_position: 6
 ---
 
@@ -15,7 +15,7 @@ The goal of this process is to make it easy to onboard new Organizers to the tea
 2. Once the form is accepted, access will be granted to the following systems using the email address identified in the form:
   * Access to Trello
   * Access to Google Drive
-  * Access to Slack (devopsdays national)
+  * Access to Global devopsdays Slack and `kansas-city@devopsdays.org` email group
   * Create/link devopskc.com + devopsdayskc.org email
   * Added to devopsdays KC email lists
   * Access to all secret slack channels
