@@ -58,5 +58,7 @@ Responsible for:
 
 ## Accountant (one person)
 
-- Budget
+- Review previous year's budget and create a new budget
 - POC with Laura Wickett and Conference Ops
+- Keep track over the course of the year of the current state of the account
+- Determine what to pay, and when to pay, on contracts in lieu of cashflow
