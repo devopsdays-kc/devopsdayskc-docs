@@ -1,0 +1,8 @@
+{
+    "label": "Social events",
+    "position": 8,
+    "link": {
+      "type": "generated-index",
+      "description": "How social events for devopsdays KC are handled."
+    }
+  }

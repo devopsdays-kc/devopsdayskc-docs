@@ -1,0 +1,8 @@
+{
+    "label": "Health and Safety",
+    "position": 10,
+    "link": {
+      "type": "generated-index",
+      "description": "Health and safety processes for devopsdays KC."
+    }
+  }
