@@ -4,7 +4,7 @@ unlisted: false
 sidebar_position: 4
 ---
 
-TODO: Put down how communicating with speakers is handled for devopsdays KC.
+TODO: Put down how communicating with speakers is handled for DevOpsDays KC.
 
 ## Cadence
 
@@ -32,7 +32,7 @@ The below is the general comms list to be sent to the Speakers:
 
 Generally this would be sent via the CFP system, but could be used as a template for mass email from Google. You will need to replace _speaker.name_, _talk.title_, _confirmation_link_, _event.name_.
 
-> **Subject:** devopsdays KC 2024 CFP acceptance!
+> **Subject:** DevOpsDays KC 2024 CFP acceptance!
 > 
 > **Body:**
 > Congratulations _speaker.name_! 

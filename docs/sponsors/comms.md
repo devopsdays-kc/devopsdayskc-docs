@@ -4,7 +4,7 @@ unlisted: false
 sidebar_position: 4
 ---
 
-TODO: Put down how communicating with sponsors is handled for devopsdays KC.
+TODO: Put down how communicating with sponsors is handled for DevOpsDays KC.
 
 ## Previous year sponsors
 
@@ -12,7 +12,7 @@ The following email can be used as a template to send to prospective sponsors.
 
 ***Note: Make sure you update the Subject, Sponsor Contact, and who it's from***
 
-> **Subject:** devopsdays KC Returns in 2024!
+> **Subject:** DevOpsDays KC Returns in 2024!
 >
 > **Body:**
 > Hello [sponsor contact],

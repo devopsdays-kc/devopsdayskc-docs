@@ -4,4 +4,4 @@ unlisted: false
 sidebar_position: 4
 ---
 
-TODO: Put down how swag is handled for devopsdays KC.
+TODO: Put down how swag is handled for DevOpsDays KC.

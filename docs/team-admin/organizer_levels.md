@@ -5,7 +5,7 @@ sidebar_position: 2
 
 # Organizer Levels
 
-This outlines the different levels that someone could be involved with devopsdays KC 2024.
+This outlines the different levels that someone could be involved with DevOpsDays KC 2024.
 
 ## Active
 

@@ -28,7 +28,7 @@ Proposals are implemented with the following criteria:
 
 ## Meetings
 
-Here is a guide for meetings during planning seasons for devopsdays KC
+Here is a guide for meetings during planning seasons for DevOpsDays KC
 
 * Meetings will be on a set schedule of:
   * First Tuesday Night of the Month 6PM to 8PM (5:30ish to 8:30ish) IN PERSON - 2 hours
@@ -42,7 +42,7 @@ Here is a guide for meetings during planning seasons for devopsdays KC
 
 ## Slack
 
-Here is a guide for Slack usage before, during, and after planning seasons for devopsdays KC
+Here is a guide for Slack usage before, during, and after planning seasons for DevOpsDays KC
 
 ### Channels
 

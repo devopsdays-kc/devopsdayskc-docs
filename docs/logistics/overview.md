@@ -4,4 +4,4 @@ unlisted: false
 sidebar_position: 4
 ---
 
-TODO: Put down everything logistics for devopsdays KC.
+TODO: Put down everything logistics for DevOpsDays KC.
