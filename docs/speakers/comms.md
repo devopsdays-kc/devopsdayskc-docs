@@ -39,7 +39,7 @@ Generally this would be sent via the CFP system, but could be used as a template
 > 
 > Your talk, _talk.title_, has been selected for _event.name_. We are thrilled to have your talk featured at devopsdays 2024. 
 > 
-> **Please** accept this this offer as soon as possible [_confirmation_link_](_confirmation_link_) in PaperCall.
+> **Please** accept this this offer as soon as possible <link to confirmation> in PaperCall.
 > 
 > Accepting confirms that: 
 > 
