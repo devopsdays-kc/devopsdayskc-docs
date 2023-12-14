@@ -1,12 +1,12 @@
 ---
 title: "Organizer Agreement"
-sidebar_position: 4
+sidebar_position: 1
 ---
 
 # Organizer Agreement
-## devopsdays KC 2024
+## DevOpsDays KC 2024
 
-To be an organizer for devopsdays KC, a participant must agree to the following document.
+To be an organizer for DevOpsDays KC, a participant must agree to the following document.
 
 **As an organizer of DevOpsDaysKC 2024:**
 
@@ -23,6 +23,6 @@ and others will need to ask for the progress of certain tasks and through those
 conversations that new things will be uncovered
 * I agree to admit when things are not working on a specific task and ask for help rather
 than hiding it
-* I agree I have read and will abide by the **[devopsdays Core Organizing Guide](https://www.devopsdays.org/organizing/)**
-* I agree I have read and will abide by the **[devopsdays KC Code of Conduct](https://devopsdays.org/kansas-city/conduct/)**
-* I agree I have read, will abide by, and make better the **[devopsdays KC 2024 Operating Procedures](./operating_procedures.md)** through the agreed upon processes
+* I agree I have read and will abide by the **[DevOpsDays Core Organizing Guide](https://www.devopsdays.org/organizing/)**
+* I agree I have read and will abide by the **[DevOpsDays KC Code of Conduct](https://devopsdays.org/kansas-city/conduct/)**
+* I agree I have read, will abide by, and make better the **[DevOpsDays KC 2024 Operating Procedures](./operating_procedures.md)** through the agreed upon processes

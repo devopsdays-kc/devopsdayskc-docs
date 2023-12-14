@@ -1,6 +1,6 @@
 ---
 title: "Operating Procedures"
-sidebar_position: 3
+sidebar_position: 5
 ---
 
 # Organizer Operating Procedures
@@ -28,7 +28,7 @@ Proposals are implemented with the following criteria:
 
 ## Meetings
 
-Here is a guide for meetings during planning seasons for devopsdays KC
+Here is a guide for meetings during planning seasons for DevOpsDays KC
 
 * Meetings will be on a set schedule of:
   * First Tuesday Night of the Month 6PM to 8PM (5:30ish to 8:30ish) IN PERSON - 2 hours
@@ -42,7 +42,7 @@ Here is a guide for meetings during planning seasons for devopsdays KC
 
 ## Slack
 
-Here is a guide for Slack usage before, during, and after planning seasons for devopsdays KC
+Here is a guide for Slack usage before, during, and after planning seasons for DevOpsDays KC
 
 ### Channels
 
@@ -52,3 +52,7 @@ The below mentioned channels are not specifically named this way, but this lists
 * ***_external_feed*** - updates from Trello, with Trello being used for anything important because Slack will delete messages that are older than 30 days.
 * ***_orgzr_announce*** - proposals, announcements, and important discussions that need multiple peoples feedback to either vote or make a decision on. If something is going to cost a fair amount (more than $X - where we need to define X still) and or will have material impact on attendee experience it should be brought here and the **Proposals** process above should be followed.
 * ***#devopsdayskc*** - the front stage for the event. Where the other channels are backstage and organizers-only, this channel is where we would post tweets, announcements, etc. and try to build excitement and get the community engaged around the event.
+
+## Expenses
+
+TODO

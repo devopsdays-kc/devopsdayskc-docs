@@ -4,6 +4,6 @@ title: "Home"
 sidebar_position: 1
 ---
 
-# devopsdays KC Documentation
+# DevOpsDays KC Documentation
 
-![devopsdays kc logo](/img/logo.svg)
+![DevOpsDays KC logo](/img/logo.svg)

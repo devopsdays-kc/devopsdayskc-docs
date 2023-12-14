@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer').themes.dracula;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'devopsdays KC Docs',
-  tagline: 'devopsdays Kansas City Documentation',
+  title: 'DevOpsDays KC Docs',
+  tagline: 'DevOpsDays Kansas City Documentation',
   favicon: 'img/favicon.ico',
   url: 'https://devopsdayskc-docs.netlify.app', // Set the production url of your site here
   baseUrl: '/', // Set the base url of your site here, for GitHub pages, it is often '/<projectName>/'
@@ -53,9 +53,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'devopsdays KC Docs',
+        title: 'DevOpsDays KC Docs',
         logo: {
-          alt: 'devopsdays KC logo',
+          alt: 'DevOpsDays KC logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -68,7 +68,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} devopsdays KC. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} DevOpsDays KC. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
