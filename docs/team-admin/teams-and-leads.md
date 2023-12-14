@@ -41,6 +41,8 @@ Responsible for:
 
 ## Logistics
 
+*This team will have someone devoted to each of these areas, and get help from anyone interested in helping*
+
 - Virtual experience, as required
 - Relations with the venue
 - Coordinate food and catering
