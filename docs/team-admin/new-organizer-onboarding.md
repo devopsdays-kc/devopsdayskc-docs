@@ -33,50 +33,50 @@ The goal of this process is to make it easy to onboard new Organizers to the tea
 
 ## New Organizer email template
 
-> Welcome to the DevOpsDays KC organizing team \{ Person }! 
->
-> We're excited to have you on board. What follows is a list of important links and information for you to have as we all work together to put on a great event for the attendees this year.
->
-> Important Links:
->
->* Conference-specific:
->  * Our website: https://devopsdayskc.org (redirects to https://devopsdays.org/kansas-city/)
->  * Our CFP: \{ linkToCFP }
->  * Our registration: \{ linkToRegistration }
->* Our Trello board: \{ linkToTrello }
->* Our Google Drive shared folders: 
->  * Internal Drive: \{ linkToInternalDrive }
->  * External Drive: \{ linkToExternalDrive }
->* Our Slack channels:
->  * \{ linksToEachChannel }
->  * ***Note: Access has been requested to the Global DevOpsDays Slack, and may take a few days to be provisioned***
->
->You've also been added to the following email lists:
->
->* Global DevOpsDays Kansas-City (`kansas-city@devopsdays.org`) list
->  * *Note: this may take a few days to become active*
->* DevOpsDays KC Organizer list
->* Specific lists for the Team(s) you're on
->
->You have been added to the following regular meetings:
->
->* First Tuesday Night of the Month 6PM to 8PM, IN PERSON - 2 hours
->* Second Monday Lunch of the month 12PM to 1PM (Google Meet) - 1 hour
->* Third Tuesday Night of the Month: usually the [DevOps KC Meetup](https://www.meetup.com/devops-kansas-city/) week 5:30PM to 8:00PM
->  * This is not required attendance, but a great time to participate in, and help grow, the community
->* Last Wednesday Morning of the Month: 8AM to 9AM (Google Meet) - 1 hour
->  * TOTAL: 4 hours of potential meeting time every month
->
->Organizer reference:
->
->* [DevOpsDays KC Organizer Agreement](./organizer_agreement.md)
->* [DevOpsDays Core Organizing Guide](https://www.devopsdays.org/organizing/)
->* [DevOpsDays KC Code of Conduct](https://devopsdays.org/kansas-city/conduct/)
->
->A PR (\{ linkToGitHubPR }) has been submitted to add you to the event website. Once this PR is merged, you will show up on the event website [Contact page](https://devopsdays.org/kansas-city/contact).
->
->Again, thanks for committing to be part of the DevOpsDays KC Organizing team!
->
->Regards,
->
->\{ personSigningEmail }
+Welcome to the DevOpsDays KC organizing team \{ Person }! 
+
+We're excited to have you on board. What follows is a list of important links and information for you to have as we all work together to put on a great event for the attendees this year.
+
+Important Links:
+
+* Conference-specific:
+  * Our website: https://devopsdayskc.org (redirects to https://devopsdays.org/kansas-city/)
+  * Our CFP: \{ linkToCFP }
+  * Our registration: \{ linkToRegistration }
+* Our Trello board: \{ linkToTrello }
+* Our Google Drive shared folders: 
+  * Internal Drive: \{ linkToInternalDrive }
+  * External Drive: \{ linkToExternalDrive }
+* Our Slack channels:
+  * \{ linksToEachChannel }
+  * ***Note: Access has been requested to the Global DevOpsDays Slack, and may take a few days to be provisioned***
+
+You've also been added to the following email lists:
+
+* Global DevOpsDays Kansas-City (`kansas-city@devopsdays.org`) list
+  * *Note: this may take a few days to become active*
+* DevOpsDays KC Organizer list
+* Specific lists for the Team(s) you're on
+
+You have been added to the following regular meetings:
+
+* First Tuesday Night of the Month 6PM to 8PM, IN PERSON - 2 hours
+* Second Monday Lunch of the month 12PM to 1PM (Google Meet) - 1 hour
+* Third Tuesday Night of the Month: usually the [DevOps KC Meetup](https://www.meetup.com/devops-kansas-city/) week 5:30PM to 8:00PM
+  * This is not required attendance, but a great time to participate in, and help grow, the community
+* Last Wednesday Morning of the Month: 8AM to 9AM (Google Meet) - 1 hour
+  * TOTAL: 4 hours of potential meeting time every month
+
+Organizer reference:
+
+* [DevOpsDays KC Organizer Agreement](./organizer_agreement.md)
+* [DevOpsDays Core Organizing Guide](https://www.devopsdays.org/organizing/)
+* [DevOpsDays KC Code of Conduct](https://devopsdays.org/kansas-city/conduct/)
+
+A PR (\{ linkToGitHubPR }) has been submitted to add you to the event website. Once this PR is merged, you will show up on the event website [Contact page](https://devopsdays.org/kansas-city/contact).
+
+Again, thanks for committing to be part of the DevOpsDays KC Organizing team!
+
+Regards,
+
+\{ personSigningEmail }
