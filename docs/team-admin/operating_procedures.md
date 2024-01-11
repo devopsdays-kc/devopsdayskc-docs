@@ -9,7 +9,7 @@ sidebar_position: 5
 
 Proposals are implemented with the following criteria:
 
-* Proposals must start with **“PROPOSAL”**, and be posted in the `#devops_orgzr_announce` organizer channel on the DevOps KC Slack.  The proposal should also mention `@channel` to ensure all members are exposed to the proposal
+* Proposals must start with **“PROPOSAL”**, and be posted in the `#*_orgzr_announce` organizer channel on the DevOps KC Slack.  The proposal should also mention `@channel` to ensure all members are exposed to the proposal
 * Voting will be open for 48 hours unless:
   * The proposal immediately passes if there are 4 or more +1’s not including the proposer
   * The proposal immediately fails if there are 4 or more -1’s not including the proposer
@@ -31,9 +31,10 @@ Proposals are implemented with the following criteria:
 Here is a guide for meetings during planning seasons for DevOpsDays KC
 
 * Meetings will be on a set schedule of:
-  * First Tuesday Night of the Month 6PM to 8PM (5:30ish to 8:30ish) IN PERSON - 2 hours
+  * First Tuesday Night of the Month 6PM to 8PM - IN PERSON - 2 hours
   * Second Monday Lunch of the month 12PM to 1PM (Google Meet) - 1 hour
-  * Third Tuesday Night of the Month: Meetup week 5:30PM to 8:30PM - 0 hours
+  * Third Tuesday Night of the Month: usually the [DevOps KC Meetup](https://www.meetup.com/devops-kansas-city/) week 5:30PM to 8:00PM
+    * This is not required attendance, but a great time to participate in, and help grow, the community
   * Last Wednesday Morning of the Month: 8AM to 9AM (Google Meet) - 1 hour
     * TOTAL: 4 hours of potential meeting time every month
 * Organizer agrees to put things on the agenda ahead of the Hangout meetings
