@@ -21,8 +21,7 @@ satisfaction
 * I agree to keep up on the updates to the best of my ability, but understand that myself
 and others will need to ask for the progress of certain tasks and through those
 conversations that new things will be uncovered
-* I agree to admit when things are not working on a specific task and ask for help rather
-than hiding it
+* I agree to admit when things are not working on a specific task and ask for help rather than hiding it
 * I agree I have read and will abide by the **[DevOpsDays Core Organizing Guide](https://www.devopsdays.org/organizing/)**
 * I agree I have read and will abide by the **[DevOpsDays KC Code of Conduct](https://devopsdays.org/kansas-city/conduct/)**
 * I agree I have read, will abide by, and make better the **[DevOpsDays KC 2024 Operating Procedures](./operating_procedures.md)** through the agreed upon processes
