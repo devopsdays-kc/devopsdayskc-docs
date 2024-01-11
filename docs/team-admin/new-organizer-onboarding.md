@@ -63,9 +63,11 @@ You have been added to the following regular meetings:
 * First Tuesday Night of the Month 6PM to 8PM, IN PERSON - 2 hours
 * Second Monday Lunch of the month 12PM to 1PM (Google Meet) - 1 hour
 * Third Tuesday Night of the Month: usually the [DevOps KC Meetup](https://www.meetup.com/devops-kansas-city/) week 5:30PM to 8:00PM
-  * This is not required attendance, but a great time to participate in, and help grow, the community
+  * This is not required attendance, and you won't get a calendar invite, but a great time to participate in, and help grow, the community
 * Last Wednesday Morning of the Month: 8AM to 9AM (Google Meet) - 1 hour
   * TOTAL: 4 hours of potential meeting time every month
+
+Please verify you have these on the calendar and let me know if you don't.
 
 Organizer reference:
 
