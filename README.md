@@ -36,7 +36,7 @@ If you have your local development server already started, you're ready to start
 Before you are ready to push your changes, verify they build and then display correctly by running:
 
 ```
-npm build ; npm serve
+npm run build ; npm run serve
 ```
 
 This will generate the static content into the `build` directory and then run the local serve against that directory to mirror what will/should be displayed when the changes are deployed.
