@@ -67,7 +67,7 @@ The person who is the meeting organizer will do the following:
    
   - At least one Squad member should be present to provide an update and for discussion
 
-3. After the meeting, TODO’s are added/updated on Trello
+3. After the meeting, TODO’s are added/updated on Trello by each Squad
 
 ## Slack
 
