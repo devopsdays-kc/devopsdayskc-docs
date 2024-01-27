@@ -1,12 +1,12 @@
 ---
-title: "Teams and Leads"
+title: "Squads and Leads"
 unlisted: false
 sidebar_position: 4
 ---
 
-# Teams and Leads
+# Squads and Leads
 
-Below are the teams and their responsibilities. Each team will have a Lead (i.e. point person), and at least one other member on the team except for **Accountant**, who will be one person.
+Below are the Squads and their responsibilities. Each Squad will have a Lead (i.e. point person), and at least one other member on the Squad except for **Accountant**, who will be one person.
 
 ## Speakers/Content
 
@@ -41,7 +41,7 @@ Responsible for:
 
 ## Logistics
 
-*This team will have someone devoted to each of these areas, and get help from anyone interested in helping*
+*This Squad will have someone devoted to each of these areas, and get help from anyone interested in helping*
 
 - Virtual experience, as required
 - Relations with the venue
@@ -55,7 +55,7 @@ Responsible for:
 
 ## Social Events
 
-- Coordinate with Speaker team on speaker dinner
+- Coordinate with Speaker Squad on speaker dinner
 - Social events for the conference
 
 ## Accountant (one person)
