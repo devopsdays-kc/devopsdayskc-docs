@@ -62,7 +62,11 @@ The person who is the meeting organizer will do the following:
 
   - Each Squad member should also be able to add updates as they have them, but they at least need to be communicating those updates to the Squad lead
 
+
 2. During the meeting, each Squad provides a quick update and discussion on their slides, adding notes where necessary
+   
+  - At least one Squad member should be present to provide an update and for discussion
+
 3. After the meeting, TODO’s are added/updated on Trello
 
 ## Slack
