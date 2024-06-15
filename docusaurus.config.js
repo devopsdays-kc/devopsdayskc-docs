@@ -11,7 +11,7 @@ const config = {
   title: 'DevOpsDays KC Docs',
   tagline: 'DevOpsDays Kansas City Documentation',
   favicon: 'img/favicon.ico',
-  url: 'https://devopsdayskc-docs.netlify.app', // Set the production url of your site here
+  url: 'https://docs.devopsdayskc.org', // Set the production url of your site here
   baseUrl: '/', // Set the base url of your site here, for GitHub pages, it is often '/<projectName>/'
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -39,7 +39,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/devopskc/devopsdayskc-docs/tree/main/',
+            'https://github.com/devopsdays-kc/docs/tree/main/',
         },
         blog: false,
         theme: {
@@ -60,7 +60,7 @@ const config = {
         },
         items: [
           {
-            href: 'https://github.com/devopskc/devopsdayskc-docs',
+            href: 'https://github.com/devopsdays-kc/docs',
             label: 'GitHub',
             position: 'right',
           },
