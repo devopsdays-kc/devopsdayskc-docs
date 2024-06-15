@@ -5,17 +5,21 @@ sidebar_position: 2
 
 # Organizer Levels
 
-This outlines the different levels that someone could be involved with DevOpsDays KC 2024.
+This outlines the different levels that someone could be involved with DevOpsDays KC.
 
 ## Active
 
-An Active member would put in best effort to attend meetings (at least one per month) and check in on Slack regularly (at least once per week). An Active member has voting rights on proposals. Proposals should be made on things that cost over $XXX and materially impact attendee experience.
+An Active member would put in best effort to attend meetings (at least one per month) and check in on Slack regularly (at least once per week). An Active member has voting rights on proposals, and agree to adhere to the **[Organizer Agreement](./organizer_agreement.md)** and **[Operating Procedures](./operating_procedures.md)**.
 
-There are two ways an Active member is classified:
+There are three ways in which an Active member is defined:
 
-### Sub-Group Lead (Active member)
+### Squad leader (Active member)
 
-A sub-group lead should be responsible for all things related to that sub-group. They do not have to DO everything related to that sub-group, but they should be informed. 
+A Squad leader should be responsible for all things related to that squad. They do not have to DO everything related to that squad, but they should be informed. 
+
+### Squad member (Active member)
+
+A Squad member is a member of at least one squad, and is responsible for being actively involved in the tasks assigned to that squad. 
 
 ### Specialist (Active member)
 
