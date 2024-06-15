@@ -79,7 +79,7 @@ The below mentioned channels are not specifically named this way, but this lists
 
 * ***_organizers*** - the original channel, which should mostly stay on topic about the conference, but sometimes strays and can be too much to keep up on but is great for searching for things later, assuming the history has not been lost.
 * ***_external_feed*** - updates from Trello, with Trello being used for anything important because Slack will delete messages that are older than 30 days.
-* ***_orgzr_announce*** - proposals, announcements, and important discussions that need multiple peoples feedback to either vote or make a decision on. If something is going to cost a fair amount (more than $X - where we need to define X still) and or will have material impact on attendee experience it should be brought here and the **Proposals** process above should be followed.
+* ***_orgzr_announce*** - proposals, announcements, and important discussions that need multiple peoples feedback to either vote or make a decision on. If something is going to cost a fair amount (more than $250) and or will have material impact on attendee experience it should be brought here and the **Proposals** process above should be followed.
 * ***#devopsdayskc*** - the front stage for the event. Where the other channels are backstage and organizers-only, this channel is where we would post tweets, announcements, etc. and try to build excitement and get the community engaged around the event.
 
 ## Expenses
