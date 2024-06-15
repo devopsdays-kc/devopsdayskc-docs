@@ -15,11 +15,11 @@ There are three ways in which an Active member is defined:
 
 ### Squad leader (Active member)
 
-A Squad leader should be responsible for all things related to that squad. They do not have to DO everything related to that squad, but they should be informed. 
+A Squad leader should be responsible for all things related to that [squad](./squads-and-leads.md). They do not have to DO everything related to that squad, but they should be informed. 
 
 ### Squad member (Active member)
 
-A Squad member is a member of at least one squad, and is responsible for being actively involved in the tasks assigned to that squad. 
+A Squad member is a member of at least one [squad](./squads-and-leads.md), and is responsible for being actively involved in the tasks assigned to that squad. 
 
 ### Specialist (Active member)
 
