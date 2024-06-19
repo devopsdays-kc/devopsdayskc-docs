@@ -5,15 +5,6 @@ sidebar_position: 5
 
 # Organizer Operating Procedures
 
-## Participation
-
-As set forth in the Organizer Agreement, Organizers agree to actively and meaningfully participate in the planning and execution of an event. If an Active member or Advisor does not participate to their agreed upon level, per the [Organizer Agreement](./organizer_agreement.md), they will be removed for the next event. To be added again, they will need to meet the following criteria for the next event:
-
-- Being an active, committed Meetup organizer, and/or
-- Being an active day-of Volunteer in the event
-
-**Example:** Organizer (Active member or Advisor) from 2024 did not actively and meaningfully participate in the event, but would like to be involved in 2025. They would need to either be an active, committed Meetup organizer in the leadup to the 2025 event, or participate in the 2025 event as an active, day-of Volunteer, and would then be able to be added as an Organizer for 2025, and follow the process for [adding new members](./adding-new-members.md)
-
 ## Proposals
 
 Proposals are implemented with the following criteria:
