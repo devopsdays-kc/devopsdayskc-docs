@@ -24,6 +24,6 @@ conversations that new things will be uncovered
 * I agree to admit when things are not working on a specific task and ask for help rather than hiding it
 * I agree I have read and will abide by the **[DevOpsDays Core Organizing Guide](https://www.devopsdays.org/organizing/)**
 * I agree I have read and will abide by the **[DevOpsDays KC Code of Conduct](https://devopsdays.org/kansas-city/conduct/)**
-* I agree I have read, will abide by, and make better the **[DevOpsDays KC 2024 Operating Procedures](./operating_procedures.md)** through the agreed upon processes
+* I agree I have read, will abide by, and make better the **[DevOpsDays KC Operating Procedures](./operating_procedures.md)** through the agreed upon processes
 
 Agreement is captured via Google Form which is sent to the prospective organizer.
