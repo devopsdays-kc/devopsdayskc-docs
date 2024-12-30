@@ -40,11 +40,22 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/devopsdays-kc/docs/tree/main/',
+          showLastUpdateTime: true,
         },
         blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+          lastmod: 'date',
+          createSitemapItems: async (params) => {
+            const {defaultCreateSitemapItems, ...rest} = params;
+            const items = await defaultCreateSitemapItems(rest);
+            return items.filter((item) => !item.url.includes('/page/'));
+          },
+        }
       }),
     ],
   ],
