@@ -10,7 +10,11 @@ TODO: Put down how communicating with sponsors is handled for DevOpsDays KC.
 
 The following email can be used as a template to send to prospective sponsors.
 
-***Note: Make sure you update the Subject, Sponsor Contact, and who it's from***
+:::warning
+
+Make sure you update the Subject, Sponsor Contact, and who it's from
+
+:::
 
 > **Subject:** DevOpsDays KC Returns in 2024!
 >

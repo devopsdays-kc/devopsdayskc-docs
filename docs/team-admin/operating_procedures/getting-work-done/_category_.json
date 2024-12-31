@@ -1,0 +1,10 @@
+{
+    "position": 5,
+    "label": "Getting Work Done",
+    "collapsible": true,
+    "collapsed": true,
+    "link": {
+      "type": "generated-index",
+      "description": "For tasks, starting with DevOpsDays KC 2025, we will be using GitHub Projects. This will be a new process for the team, after years of using Trello, so we will be learning as we go. The main goal is to have a single source of truth for tasks and to make sure we are all on the same page."
+    }
+  }
