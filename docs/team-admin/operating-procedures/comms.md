@@ -3,6 +3,12 @@ title: "Comms"
 sidebar_position: 3
 ---
 
+With all of us working on the event remotely, communication is key. We use Slack for most of our communication, but we also use GitHub Discussions for more permanent and asynchronous communication directly related to the event, tasks, decisions, etc.
+
+## GitHub Discussions
+
+TODO: Add more information about how to use GitHub Discussions
+
 ## Slack
 
 Here is a guide for Slack usage before, during, and after planning seasons for DevOpsDays KC
