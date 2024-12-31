@@ -54,7 +54,6 @@ Create a Markdown file at `docs/hello.md`:
 
 ```md title="docs/hello.md"
 # Hello
-
 This is my **first Docusaurus document**!
 ```
 
@@ -71,9 +70,7 @@ Add metadata to customize the sidebar label and position:
 sidebar_label: 'Hi!'
 sidebar_position: 3
 ---
-
 # Hello
-
 This is my **first Docusaurus document**!
 ```
 
@@ -94,9 +91,7 @@ description: My document description
 slug: /my-custom-url
 ---
 // highlight-end
-
 ##### Markdown heading
-
 Markdown text with [links](./hello.md)
 ```
 
@@ -170,18 +165,6 @@ Docusaurus has a special syntax to create admonitions and callouts:
 
     :::
 
-:::tip My tip
-
-Use this awesome feature option
-
-:::
-
-:::danger Take care
-
-This action is dangerous
-
-:::
-
 ##### MDX and React Components
 
 [MDX](https://mdxjs.com/) can make your documentation more **interactive** and allows using any **React components inside Markdown**:
@@ -207,24 +190,3 @@ This is <Highlight color="#25c2a0">Docusaurus green</Highlight> !
 
 This is <Highlight color="#1877F2">Facebook blue</Highlight> !
 ```
-
-export const Highlight = ({children, color}) => (
-  <span
-    style={{
-      backgroundColor: color,
-      borderRadius: '20px',
-      color: '#fff',
-      padding: '10px',
-      cursor: 'pointer',
-    }}
-    onClick={() => {
-      alert(`You clicked the color ${color} with label ${children}`);
-    }}>
-    {children}
-  </span>
-);
-
-This is <Highlight color="#25c2a0">Docusaurus green</Highlight> !
-
-This is <Highlight color="#1877F2">Facebook blue</Highlight> !
-
