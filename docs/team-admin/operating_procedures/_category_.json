@@ -1,0 +1,10 @@
+{
+    "position": 5,
+    "label": "Operating Procedures",
+    "collapsible": true,
+    "collapsed": true,
+    "link": {
+      "type": "generated-index",
+      "description": "How the Organizing Team operates, from meetings to decision-making to working together, with the express goal in mind of putting on the best DevOpsDays KC possible for the attendees."
+    }
+  }
