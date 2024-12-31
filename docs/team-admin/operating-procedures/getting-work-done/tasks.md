@@ -48,6 +48,23 @@ Recommended minimum fields:
 
 The rest of the fields can be entered later.
 
+### Subtasks
+
+If you want to keep track of specific parts of the task, and it's small enough that you don't need to break it down into multiple, separate tasks, you can go ahead and use the checkbox markdown.
+
+```
+- [ ] Subtask 1
+- [ ] Subtask 2
+```
+
+They will appear as a checkmark list once you save the Issue:
+
+![subtasks](subtasks.png)
+
+And when you view them in the Issue list, you will see that there are subtasks associated:
+
+![subtasks view](subtasks-view.png)
+
 ### Labeling tasks
 
 Labeling tasks helps to keep them organized and easy to find, and you can add multiple labels to a task. The following labels are available:
@@ -82,3 +99,7 @@ Once a task has been created, it usually will begin with a status of **Todo**. O
 The tasks should be regularly updated with progress, and if there are any blockers, those should be noted in the task, and then the task should have the <Highlight color="#d73a4a">blocked</Highlight> label added. If a task is blocked, it should be moved back to **Todo** and the blocker should be noted in the task.
 
 You can mention other team members in the task by using the `@` symbol and typing their GitHub username. This will notify them that they have been mentioned in the task.
+
+### Finalizing work on a task
+
+When the task has finished
