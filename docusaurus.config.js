@@ -56,8 +56,8 @@ const config = {
           routeBasePath: '/', // Serve the docs at the site's root
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/devopsdays-kc/docs/tree/main/',
+          // editUrl:
+          //   'https://github.com/devopsdays-kc/docs/tree/main/',
           showLastUpdateTime: true,
         },
         blog: false,
