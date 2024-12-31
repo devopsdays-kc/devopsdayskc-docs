@@ -62,6 +62,7 @@ Labeling tasks helps to keep them organized and easy to find, and you can add mu
 * <Highlight color="#a2eeef">social-media</Highlight> - tasks related to social media
 * <Highlight color="#0075ca">volunteers</Highlight> - tasks related to volunteers
 * <Highlight color="#fbca04">website</Highlight> - tasks related to work being done on the website
+* <Highlight color="#C3186D">stale-issue</Highlight> - auto-assigned when a task has not been updated in >30d
 
 ## Working with tasks
 
