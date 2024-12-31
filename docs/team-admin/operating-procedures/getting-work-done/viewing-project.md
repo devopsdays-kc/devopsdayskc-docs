@@ -20,3 +20,23 @@ The columns are:
 * **In Progress:** where tasks that are being worked on are placed
 * **Review:** where tasks that are ready for review are placed, to be discussed at the weekly meeting
 * **Done:** where tasks that have been completed are placed
+
+### Prioritized backlog
+
+
+
+### Roadmap
+
+
+
+### All tasks
+
+
+
+### Blocked/At-Risk
+
+
+
+### My Items
+
+
