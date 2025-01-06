@@ -12,7 +12,7 @@ The goal of this process is to make it easy to onboard new Organizers to the tea
 
   * **[DevOpsDays KC Organizer Agreement](./organizer_agreement.md)**
   * **[DevOpsDays KC Code of Conduct](https://devopsdays.org/kansas-city/conduct/)**
-  * **[DevOpsDays KC Operating Procedures](./operating_procedures.md)**
+  * **[DevOpsDays KC Operating Procedures](/category/operating-procedures/)**
   * **[DevOpsDays Core Organizing Guide](https://www.devopsdays.org/organizing/)**
 
 2. The **Onboarding form** is sent to the new Organizer to collect all necessary information
@@ -33,7 +33,7 @@ The goal of this process is to make it easy to onboard new Organizers to the tea
 
 ## New Organizer email template
 
-Welcome to the DevOpsDays KC organizing team \{ Person }! 
+Welcome to the DevOpsDays KC organizing team \{ Person }!
 
 We're excited to have you on board. What follows is a list of important links and information for you to have as we all work together to put on a great event for the attendees this year.
 
@@ -44,7 +44,7 @@ Important Links:
   * Our CFP: \{ linkToCFP }
   * Our registration: \{ linkToRegistration }
 * Our Trello board: \{ linkToTrello }
-* Our Google Drive shared folders: 
+* Our Google Drive shared folders:
   * Internal Drive: \{ linkToInternalDrive }
   * External Drive: \{ linkToExternalDrive }
 * Our Slack channels:

@@ -15,6 +15,9 @@ const config = {
   baseUrl: '/', // Set the base url of your site here, for GitHub pages, it is often '/<projectName>/'
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+  future: {
+    experimental_faster: true,
+  },
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -29,6 +32,21 @@ const config = {
     locales: ['en'],
   },
 
+  plugins: [
+    [
+      '@docusaurus/plugin-ideal-image',
+      {
+        quality: 70,
+        max: 1032, // max resized image's size.
+        min: 640, // min resized image's size.
+        steps: 2, // the max number of images generated between min and
+        disableInDev: false, // disable the plugin in development mode
+      },
+    ],
+    'plugin-image-zoom',
+    // 'rsdoctor',
+  ],
+
   presets: [
     [
       'classic',
@@ -38,8 +56,8 @@ const config = {
           routeBasePath: '/', // Serve the docs at the site's root
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/devopsdays-kc/docs/tree/main/',
+          // editUrl:
+          //   'https://github.com/devopsdays-kc/docs/tree/main/',
           showLastUpdateTime: true,
         },
         blog: false,
